@@ -11,5 +11,8 @@
       "url": "https://github.com/kkwo113/my-teatest001-datetime"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@tea001/my-teatest002-datetime": "^1.0.0"
+  }
 }
